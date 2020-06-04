@@ -1,0 +1,3 @@
+rootProject.name='JcenterTest'
+include ':app'
+include ':jlib'
